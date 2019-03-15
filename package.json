@@ -1,0 +1,28 @@
+{
+  "name": "futapi-js",
+  "version": "0.0.1",
+  "description": "Fifa Ultimate Team non-official API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpauloeti/futjs-api.git"
+  },
+  "keywords": [
+    "fut",
+    "fifa",
+    "ultimate-team",
+    "ut"
+  ],
+  "author": "João Paulo <hi@joaopaulo.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpauloeti/futjs-api/issues"
+  },
+  "homepage": "https://github.com/jpauloeti/futjs-api#readme"
+}
