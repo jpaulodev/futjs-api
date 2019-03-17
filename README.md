@@ -47,6 +47,10 @@ Usage example:
     }
 ```
 
+# Contributing
+
+Open an issue or mail me if you want to contribute.
+
 # Contact
 
 Email: hi@joaopaulo.dev
