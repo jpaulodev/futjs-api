@@ -1,6 +1,6 @@
 {
   "name": "futapi-js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Fifa Ultimate Team non-official API",
   "main": "index.js",
   "directories": {

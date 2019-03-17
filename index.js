@@ -8,20 +8,11 @@ const Methods = require('./lib/methods');
 class FutJS extends Methods {
   /**
    * [constructor description]
-   * @param  {[type]}  options.email          [description]
-   * @param  {[type]}  options.password       [description]
-   * @param  {[type]}  options.secret         [description]
-   * @param  {[type]}  options.platform       [description]
-   * @param  {[type]}  options.captchaHandler [description]
-   * @param  {[type]}  options.tfAuthHandler  [description]
-   * @param  {Boolean} options.saveVariable   [description]
-   * @param  {Boolean} options.loadVariable   [description]
-   * @param  {Number}  options.RPM            [description]
-   * @param  {Number}  options.minDelay       [description]
-   * @param  {[String]} options.proxy         [description]
-   * @param  {[String]} options.loginType     [description]
-   * @param  {[Function]} options.preHook     [Function that return a promise]
-   * @return {[type]}                         [description]
+   * @param  {String}  options.email          FUT E-mail
+   * @param  {String}  options.password       FUT Password
+   * @param  {String}  options.secret         FUT Secret answer
+   * @param  {String}  options.code           FUT Backup code
+   * @param  {String}  options.platform       FUT Platform [pc/ps3/ps4/xbox/xbox360]
    */
   constructor(options) {
     super();
